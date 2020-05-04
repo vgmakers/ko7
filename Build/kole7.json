@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "kole7",
+"dataUrl": "kole7.data.unityweb",
+"asmCodeUrl": "kole7.asm.code.unityweb",
+"asmMemoryUrl": "kole7.asm.memory.unityweb",
+"asmFrameworkUrl": "kole7.asm.framework.unityweb",
+"TOTAL_MEMORY": 67108864,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
